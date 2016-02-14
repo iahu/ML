@@ -43,8 +43,8 @@ for i=1:6;
     end
 end
 
-C = C * steps^idx_i
-sigma = sigma * steps^idx_j
+C = C * steps^idx_i;
+sigma = sigma * steps^idx_j;
 
 
 
